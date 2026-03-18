@@ -1,3 +1,9 @@
-this shit will rape ur pc please dont run this i just made this to honour the goat herself otonashi ayana
+This shit WILL rape ur pc please dont run this 
 
-to run clone this repo and open /debug/net10.0/DesktopEnshittifier.exe i forgot some of the file path js look for the exe
+He just made this to honour the goat herself, Otonashi Ayana
+
+To run clone this repo and open /debug/net10.0/DesktopEnshittifier.exe 
+
+He forgot some of the file paths js look for the exe
+
+im going to kill you
