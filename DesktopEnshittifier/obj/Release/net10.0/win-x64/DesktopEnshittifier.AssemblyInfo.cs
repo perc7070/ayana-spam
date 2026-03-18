@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesktopEnshittifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1ca8b1422601f9317033370122cf71ec15a0733")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aab3a652a6caf4808d23586bdd6f743050dbed53")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesktopEnshittifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesktopEnshittifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

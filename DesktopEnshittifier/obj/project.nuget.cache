@@ -1,13 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "2sm+cXAHvcM=",
+  "dgSpecHash": "WA7U9vPbKKQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\alist\\source\\repos\\DesktopEnshittifier\\DesktopEnshittifier\\DesktopEnshittifier.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\alist\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.3\\microsoft.net.illink.tasks.10.0.3.nupkg.sha512",
     "C:\\Users\\alist\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.5\\microsoft.win32.systemevents.10.0.5.nupkg.sha512",
     "C:\\Users\\alist\\.nuget\\packages\\system.drawing.common\\10.0.5\\system.drawing.common.10.0.5.nupkg.sha512",
     "C:\\Users\\alist\\.nuget\\packages\\system.formats.nrbf\\10.0.5\\system.formats.nrbf.10.0.5.nupkg.sha512",
-    "C:\\Users\\alist\\.nuget\\packages\\system.resources.extensions\\10.0.5\\system.resources.extensions.10.0.5.nupkg.sha512"
+    "C:\\Users\\alist\\.nuget\\packages\\system.resources.extensions\\10.0.5\\system.resources.extensions.10.0.5.nupkg.sha512",
+    "C:\\Users\\alist\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.3\\microsoft.netcore.app.runtime.win-x64.10.0.3.nupkg.sha512",
+    "C:\\Users\\alist\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.3.nupkg.sha512",
+    "C:\\Users\\alist\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.3\\microsoft.aspnetcore.app.runtime.win-x64.10.0.3.nupkg.sha512"
   ],
   "logs": []
 }
