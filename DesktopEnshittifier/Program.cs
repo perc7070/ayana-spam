@@ -23,7 +23,7 @@ class Enshittify
         ayanaBitmap.Save(pathToAyana);
         // this is all straight shit idgaf tho :P
 
-        Console.WriteLine("Type 'start' to Start"); // this bullshit doesnt even do anything i hateit
+        Console.WriteLine("you may lose a bunch of unsaved stuff save it and come back and be prepared to have to restart ur pc. \ntype start to start"); // this bullshit doesnt even do anything i hateit
 
         if (Console.ReadLine() == "start")
         {
@@ -33,7 +33,8 @@ class Enshittify
                 {
                     openAyaners.StartInfo.FileName = pathToAyana;
                     openAyaners.StartInfo.UseShellExecute = true;
-                    while (true)
+                    Console.WriteLine(pathToAyana + "\n");
+                    for (int i = 0; i < 10; i++)
                     {
                         openAyaners.Start();
                     }
@@ -41,16 +42,15 @@ class Enshittify
             }
             catch (Exception e)
             {
-                Console.WriteLine("sorry" + e.Message);
+                Console.WriteLine("sorry " + e.Message);
                 using (Process openAyaners = new Process())
                 {
+                    openAyaners.StartInfo.Arguments = pathToAyana;
                     openAyaners.StartInfo.FileName = @"C:\Program Files\Mozilla Firefox\firefox.exe";
                     //this is dumb i am dumb
-                    //why firefox? am i retarded?
                     openAyaners.StartInfo.UseShellExecute = true;
-                    openAyaners.StartInfo.Arguments = pathToAyana;
 
-                    while (true)
+                    for (int i = 0; i < 50; i++)
                     {
                         openAyaners.Start();
                     }

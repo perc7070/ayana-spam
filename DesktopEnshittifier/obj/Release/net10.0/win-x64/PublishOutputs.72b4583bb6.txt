@@ -1,0 +1,2 @@
+C:\Users\alist\source\repos\DesktopEnshittifier\DesktopEnshittifier\bin\Release\net10.0\win-x64\publish\DesktopEnshittifier.pdb
+C:\Users\alist\source\repos\DesktopEnshittifier\DesktopEnshittifier\bin\Release\net10.0\win-x64\publish\DesktopEnshittifier.exe
