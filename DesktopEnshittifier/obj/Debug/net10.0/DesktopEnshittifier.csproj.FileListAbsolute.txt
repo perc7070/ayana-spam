@@ -23,3 +23,4 @@ C:\Users\alist\source\repos\DesktopEnshittifier\DesktopEnshittifier\bin\Debug\ne
 C:\Users\alist\source\repos\DesktopEnshittifier\DesktopEnshittifier\bin\Debug\net10.0\System.Resources.Extensions.dll
 C:\Users\alist\source\repos\DesktopEnshittifier\DesktopEnshittifier\bin\Debug\net10.0\runtimes\win\lib\net10.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\alist\source\repos\DesktopEnshittifier\DesktopEnshittifier\obj\Debug\net10.0\DesktopE.242E8C12.Up2Date
+C:\Users\alist\source\repos\DesktopEnshittifier\DesktopEnshittifier\obj\Debug\net10.0\DesktopEnshittifier.sourcelink.json

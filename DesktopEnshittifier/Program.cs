@@ -32,7 +32,7 @@ class Enshittify
                 using (Process openAyaners = new Process())
                 {
                     openAyaners.StartInfo.FileName = pathToAyana;
-
+                    openAyaners.StartInfo.UseShellExecute = true;
                     while (true)
                     {
                         openAyaners.Start();
@@ -46,6 +46,8 @@ class Enshittify
                 {
                     openAyaners.StartInfo.FileName = @"C:\Program Files\Mozilla Firefox\firefox.exe";
                     //this is dumb i am dumb
+                    //why firefox? am i retarded?
+                    openAyaners.StartInfo.UseShellExecute = true;
                     openAyaners.StartInfo.Arguments = pathToAyana;
 
                     while (true)
